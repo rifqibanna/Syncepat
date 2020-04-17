@@ -1,0 +1,18 @@
+.latihan-5{
+    background-color:blue ;
+    height:auto;
+}
+
+.latihan-5 .navigasi li{
+    color: white;
+    float: right;
+    display: block;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+.tombol button{
+    height: auto;
+    width: auto;
+}
+

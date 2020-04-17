@@ -1,0 +1,414 @@
+@media (min-width: 992px) { ... }
+
+
+
+body{
+    margin-bottom: auto;
+}
+
+.header .navbar {
+    background-color: #6562EB;
+}
+
+
+
+.header .navbar-nav li:hover {
+    text-decoration:underline;
+
+}
+
+.slider {
+    
+    background-size: cover;
+    background-position: bottom;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.452), rgba(0, 0, 0, 0.438)), url(/gambar/img/andrea-cau-nV7GJmSq3zc-unsplash.jpg);
+    height: auto;
+    padding-top: 150px;
+}
+
+.slider h2{
+    color: white;
+    font-weight:bold; 
+}
+
+.slider h5{
+    color: white;
+    
+}
+
+.produk {
+    height: 275px;
+    width: 232px;
+    background-color: white;
+    box-shadow: 0px 0px 15px black;
+    border-radius: 5px; 
+    padding: 20px;
+
+}
+
+.produk h2{
+    font-weight: bold;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.produk h6{
+    font-size: 15px;
+}
+
+.item{
+    margin-top: -200px;
+}
+
+.cek-ongkir{
+    background-color: #B8DB56;
+    height: 443px;
+    width: auto;
+    margin-top: 30px;
+    border-radius: 40px;
+}
+
+.cek-ongkir h1{
+    font-weight: bold;
+font-size: 30px;
+color: white;
+padding-top: 40px;
+}
+
+.cek-ongkir h6{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: white;
+}
+
+.cek-ongkir .btn {
+    width: 225px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 3px;
+    font-weight: bold;
+}
+
+.cek-ongkir .col-4{
+    margin-left: 50px;
+
+}
+
+.cek-ongkir .col-4 .form-control{
+    margin-top: 42px;
+}
+
+.pilih-ekspedisi{
+    background-color: #C76161;
+    width: auto;
+    height: 800px;
+    margin-top: 30px;
+}
+
+.pilih-ekspedisi h1{
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 160px;
+}
+
+.pilih-ekspedisi h4{
+    font-weight: lighter;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+.pilih-ekspedisi .btn{
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 270px;
+    margin-top: 20px;
+}
+
+.ask-ours{
+    background-color:#FFC700;
+    height: 700px;
+    width: auto;
+}
+
+.ask-ours h1{
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 180px;
+
+}
+
+.ask-ours h5{
+    font-weight: lighter;
+    color: white;
+    text-align: center;
+}
+
+.powered-by{
+    background-color: #665D5D;
+    height: 700px;
+    width: auto;
+}
+
+.powered-by h1{
+    font-size: 60px;
+    font-weight: lighter;
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+}
+
+.footer{
+    height: auto;
+    width: auto;
+    background-color: black;
+}
+
+.footer .dua{
+    color:white;
+    padding-top: 20px;
+}
+
+.footer .tiga{
+    color: white;
+    padding-top: 40px;
+    
+}
+
+.footer .empat{
+    color: white;
+    padding-top: 40px;
+}
+
+.footer .tiga h4{
+    color: #6F6767;
+}
+
+.footer .tiga h5{
+    color: #6F6767;
+}
+
+.footer .empat h4{
+    color: #6F6767;
+    font-weight: lighter;
+}
+
+.footer .empat h5{
+    color: #6F6767;
+    font-weight: lighter;
+}
+
+.footer .tiga a:hover{
+    text-decoration: underline;
+    
+}
+
+.footer .empat a{
+    color: white;
+}
+
+
+.footer .gambar{
+    padding-bottom: 15px;
+}
+
+.footer .gambar h6{
+    color: white;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.judul-layanan{
+    padding-top: 50px;
+}
+
+.judul-layanan h1{
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.judul-layanan h5{
+    font-weight: normal;
+}
+
+
+.layanan-kami{
+    background-image: linear-gradient(to bottom, #6765ED,#cebfbf );
+    height: 417px;
+    width: auto;
+    margin-left: 83px;
+    border-radius: 40px 0px 0px 40px;
+    margin-top: 50px;
+    
+}
+
+.kategori-layanan{
+    background-color: white;
+    width: 330px;
+    height: 338px;
+    margin-top: 50px;
+    border-radius: 10px;
+    padding-top: 20px;
+    box-shadow: 0px 4px 20px black;
+    
+}
+.kategori-layanan:hover{
+    transition: .6s;
+    transform: scale(1.03);
+    width: 400px; 
+}
+
+
+.kategori-layanan h3{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.kategori-layanan h5{
+    font-weight: normal;
+}
+
+.kategori-layanan .btn{
+    margin-top: 10px;
+}
+
+
+.kata-mereka{
+    margin-top: 70px;
+}
+
+.rating{
+    margin-top: 30px;
+}
+
+.rating .rating-dua{
+    background-color:rgb(233, 233, 233);
+    width: 212px;
+    height: 251px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px black ;
+    padding: 30px;  
+    margin-bottom: 20px;  
+}
+
+
+.rating-dua h3{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.rating-dua h1{
+    font-size: 80px;
+    font-weight: bold;
+}
+
+
+
+.laman-ongkir{
+    background-color: #6765ED;
+    height: 500px;
+    width: auto;
+    margin-top: 20px;
+    padding-top: 40px;
+    color: white;
+    border-radius: 0px 0px 40px 40px;
+    margin-bottom: 160px;
+
+}
+
+.cek-biaya-yes{
+    background-color: whitesmoke;
+    height: 500px;
+    width: 1000px;
+    padding-top: 330px ;
+    color: #6F6767;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px;
+}
+
+.kotak-biasa{
+    height: 200px;
+    width: 200px;
+    margin-top: -400px;
+}
+
+
+.tabel-ask{
+    background-color: #6765ED;
+    width: auto;
+    height: 500px;
+    margin-top: 30px;
+    padding-top: 40px;
+    color: white;
+    margin-bottom: 170px;
+}
+
+
+
+.kotak-ask{
+    background-color: whitesmoke;
+    height: auto;
+    width: auto;
+    color: #6F6767;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px;
+    padding-top: 40px
+}
+
+.kotak-ask h4{
+    color: ;
+}
+
+.kotak-ask .btn{
+    margin: 20px;
+    width: 130px;
+
+}
+
+.awal-page{
+    background-color: #6765ED;
+    height: 500px;
+    width: auto;
+    margin-top: 20px;
+    padding-top: 40px;
+    color: white;
+    border-radius: 0px 0px 40px 40px;
+    margin-bottom: 160px;
+}
+
+.tengah-page{
+    height: 500px;
+    width: 800px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px black;
+    margin-top: 20px;
+    padding-top: 60px;
+}
+
+.tengah-page h3{
+    color: black;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.klik{
+    margin-top: -300px;
+}
+
+.klik .btn{
+    width: 180px;
+    height: auto;
+    justify-content: center;
+}
+
+
+
+
+
+}
