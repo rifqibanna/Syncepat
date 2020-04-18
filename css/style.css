@@ -1,8 +1,10 @@
-@media (min-width: 992px) { ... }
+@media (min-width: 992px) {
+    ...
+}
 
 
 
-body{
+body {
     margin-bottom: auto;
 }
 
@@ -13,12 +15,12 @@ body{
 
 
 .header .navbar-nav li:hover {
-    text-decoration:underline;
+    text-decoration: underline;
 
 }
 
 .slider {
-    
+
     background-size: cover;
     background-position: bottom;
     background: linear-gradient(to right, rgba(0, 0, 0, 0.452), rgba(0, 0, 0, 0.438)), url(/gambar/img/andrea-cau-nV7GJmSq3zc-unsplash.jpg);
@@ -26,14 +28,14 @@ body{
     padding-top: 150px;
 }
 
-.slider h2{
+.slider h2 {
     color: white;
-    font-weight:bold; 
+    font-weight: bold;
 }
 
-.slider h5{
+.slider h5 {
     color: white;
-    
+
 }
 
 .produk {
@@ -41,26 +43,26 @@ body{
     width: 232px;
     background-color: white;
     box-shadow: 0px 0px 15px black;
-    border-radius: 5px; 
+    border-radius: 5px;
     padding: 20px;
 
 }
 
-.produk h2{
+.produk h2 {
     font-weight: bold;
     font-size: 25px;
     padding: 10px;
 }
 
-.produk h6{
+.produk h6 {
     font-size: 15px;
 }
 
-.item{
+.item {
     margin-top: -200px;
 }
 
-.cek-ongkir{
+.cek-ongkir {
     background-color: #B8DB56;
     height: 443px;
     width: auto;
@@ -68,14 +70,14 @@ body{
     border-radius: 40px;
 }
 
-.cek-ongkir h1{
+.cek-ongkir h1 {
     font-weight: bold;
-font-size: 30px;
-color: white;
-padding-top: 40px;
+    font-size: 30px;
+    color: white;
+    padding-top: 40px;
 }
 
-.cek-ongkir h6{
+.cek-ongkir h6 {
     margin-top: 10px;
     margin-bottom: 20px;
     font-size: 20px;
@@ -90,23 +92,23 @@ padding-top: 40px;
     font-weight: bold;
 }
 
-.cek-ongkir .col-4{
+.cek-ongkir .col-4 {
     margin-left: 50px;
 
 }
 
-.cek-ongkir .col-4 .form-control{
+.cek-ongkir .col-4 .form-control {
     margin-top: 42px;
 }
 
-.pilih-ekspedisi{
+.pilih-ekspedisi {
     background-color: #C76161;
     width: auto;
     height: 800px;
     margin-top: 30px;
 }
 
-.pilih-ekspedisi h1{
+.pilih-ekspedisi h1 {
     font-size: 50px;
     color: white;
     font-weight: bold;
@@ -114,27 +116,27 @@ padding-top: 40px;
     margin-top: 160px;
 }
 
-.pilih-ekspedisi h4{
+.pilih-ekspedisi h4 {
     font-weight: lighter;
     font-size: 20px;
     text-align: center;
     color: white;
 }
 
-.pilih-ekspedisi .btn{
+.pilih-ekspedisi .btn {
     font-weight: bold;
     font-size: 30px;
-    margin-left: 270px;
+    margin-left: 320px;
     margin-top: 20px;
 }
 
-.ask-ours{
-    background-color:#FFC700;
+.ask-ours {
+    background-color: #FFC700;
     height: 700px;
     width: auto;
 }
 
-.ask-ours h1{
+.ask-ours h1 {
     font-weight: bold;
     color: white;
     text-align: center;
@@ -143,19 +145,19 @@ padding-top: 40px;
 
 }
 
-.ask-ours h5{
+.ask-ours h5 {
     font-weight: lighter;
     color: white;
     text-align: center;
 }
 
-.powered-by{
+.powered-by {
     background-color: #665D5D;
     height: 700px;
     width: auto;
 }
 
-.powered-by h1{
+.powered-by h1 {
     font-size: 60px;
     font-weight: lighter;
     color: white;
@@ -163,91 +165,91 @@ padding-top: 40px;
     padding-top: 150px;
 }
 
-.footer{
+.footer {
     height: auto;
     width: auto;
     background-color: black;
 }
 
-.footer .dua{
-    color:white;
+.footer .dua {
+    color: white;
     padding-top: 20px;
 }
 
-.footer .tiga{
+.footer .tiga {
     color: white;
     padding-top: 40px;
-    
+
 }
 
-.footer .empat{
+.footer .empat {
     color: white;
     padding-top: 40px;
 }
 
-.footer .tiga h4{
+.footer .tiga h4 {
     color: #6F6767;
 }
 
-.footer .tiga h5{
+.footer .tiga h5 {
     color: #6F6767;
 }
 
-.footer .empat h4{
+.footer .empat h4 {
     color: #6F6767;
     font-weight: lighter;
 }
 
-.footer .empat h5{
+.footer .empat h5 {
     color: #6F6767;
     font-weight: lighter;
 }
 
-.footer .tiga a:hover{
+.footer .tiga a:hover {
     text-decoration: underline;
-    
+
 }
 
-.footer .empat a{
+.footer .empat a {
     color: white;
 }
 
 
-.footer .gambar{
+.footer .gambar {
     padding-bottom: 15px;
 }
 
-.footer .gambar h6{
+.footer .gambar h6 {
     color: white;
     margin-top: 5px;
     margin-left: 10px;
 }
 
-.judul-layanan{
+.judul-layanan {
     padding-top: 50px;
 }
 
-.judul-layanan h1{
+.judul-layanan h1 {
     font-weight: bold;
     font-size: 60px;
 }
 
-.judul-layanan h5{
+.judul-layanan h5 {
     font-weight: normal;
 }
 
 
-.layanan-kami{
-    background-image: linear-gradient(to bottom, #6765ED,#cebfbf );
+.layanan-kami {
+    background-image: linear-gradient(to bottom, #6765ED, #cebfbf);
     height: 417px;
     width: auto;
     margin-left: 83px;
     border-radius: 40px 0px 0px 40px;
     margin-top: 50px;
-    
+
 }
 
-.kategori-layanan{
+.kategori-layanan {
     background-color: white;
     width: 330px;
     height: 338px;
@@ -255,61 +257,62 @@ padding-top: 40px;
     border-radius: 10px;
     padding-top: 20px;
     box-shadow: 0px 4px 20px black;
-    
+
 }
-.kategori-layanan:hover{
+
+.kategori-layanan:hover {
     transition: .6s;
     transform: scale(1.03);
-    width: 400px; 
+    width: 400px;
 }
 
 
-.kategori-layanan h3{
+.kategori-layanan h3 {
     font-weight: bold;
     font-size: 30px;
 }
 
-.kategori-layanan h5{
+.kategori-layanan h5 {
     font-weight: normal;
 }
 
-.kategori-layanan .btn{
+.kategori-layanan .btn {
     margin-top: 10px;
 }
 
 
-.kata-mereka{
+.kata-mereka {
     margin-top: 70px;
 }
 
-.rating{
+.rating {
     margin-top: 30px;
 }
 
-.rating .rating-dua{
-    background-color:rgb(233, 233, 233);
+.rating .rating-dua {
+    background-color: rgb(233, 233, 233);
     width: 212px;
     height: 251px;
     border-radius: 10px;
-    box-shadow: 0px 0px 10px black ;
-    padding: 30px;  
-    margin-bottom: 20px;  
+    box-shadow: 0px 0px 10px black;
+    padding: 30px;
+    margin-bottom: 20px;
 }
 
 
-.rating-dua h3{
+.rating-dua h3 {
     font-weight: bold;
     font-size: 20px;
 }
 
-.rating-dua h1{
+.rating-dua h1 {
     font-size: 80px;
     font-weight: bold;
 }
 
 
 
-.laman-ongkir{
+.laman-ongkir {
     background-color: #6765ED;
     height: 500px;
     width: auto;
@@ -321,24 +324,24 @@ padding-top: 40px;
 
 }
 
-.cek-biaya-yes{
+.cek-biaya-yes {
     background-color: whitesmoke;
     height: 500px;
     width: 1000px;
-    padding-top: 330px ;
+    padding-top: 330px;
     color: #6F6767;
     border-radius: 20px;
     box-shadow: 0px 0px 10px;
 }
 
-.kotak-biasa{
+.kotak-biasa {
     height: 200px;
     width: 200px;
     margin-top: -400px;
 }
 
 
-.tabel-ask{
+.tabel-ask {
     background-color: #6765ED;
     width: auto;
     height: 500px;
@@ -350,7 +353,7 @@ padding-top: 40px;
 
 
 
-.kotak-ask{
+.kotak-ask {
     background-color: whitesmoke;
     height: auto;
     width: auto;
@@ -360,17 +363,17 @@ padding-top: 40px;
     padding-top: 40px
 }
 
-.kotak-ask h4{
+.kotak-ask h4 {
     color: ;
 }
 
-.kotak-ask .btn{
+.kotak-ask .btn {
     margin: 20px;
     width: 130px;
 
 }
 
-.awal-page{
+.awal-page {
     background-color: #6765ED;
     height: 500px;
     width: auto;
@@ -381,7 +384,7 @@ padding-top: 40px;
     margin-bottom: 160px;
 }
 
-.tengah-page{
+.tengah-page {
     height: 500px;
     width: 800px;
     background-color: whitesmoke;
@@ -391,17 +394,17 @@ padding-top: 40px;
     padding-top: 60px;
 }
 
-.tengah-page h3{
+.tengah-page h3 {
     color: black;
     margin-bottom: 30px;
     text-align: center;
 }
 
-.klik{
+.klik {
     margin-top: -300px;
 }
 
-.klik .btn{
+.klik .btn {
     width: 180px;
     height: auto;
     justify-content: center;
